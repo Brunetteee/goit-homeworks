@@ -1,31 +1,61 @@
--------FOR ALL--------
-.small-text {
-    font-family: Roboto, sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    font-weight: 24px;
-    letter-spacing: 2%;
-    color: #434455;
+/* HEADER STYLE */
+.studio {
+     color:#2E2F42;
+     font-family: Raleway , sans-serif;
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 21px;
+     letter-spacing: 3%;
 }
-
-.smt-our {
+#iris {
+    color: #4D5AE5;
+}
+.headerlines a {
     color:#2E2F42;
     font-family: Roboto, sans-serif;
+    text-decoration: none;
     font-weight: 700;
-    font-size: 36px;
-    line-height: 40px;
+    font-size: 16px;
+    line-height: 24px;
     letter-spacing: 2%;
 }
 
+/* -------effective-solutions style------- */
 
+.effective-solutions {
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    font-family: Roboto, sans-serif;
+}
+.textH1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    color: #FFFFFF;
+}
+#button {
+    background-color: #4D5AE5;
+    color:#FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    border: none;
+    width: 168px;
+    height: 56px;
+}
 
-.teamates h4{
-    color:#2E2F42;
+/* --------------our-values style-------------- */
+
+.teamates h4 {
     font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 2%;
+    color: #2E2F42;
 }
 
 .teamates p {
@@ -34,62 +64,36 @@
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
-    color: #434455;
+    color: #2E2F42;
 }
 
--------HEADER STYLES-------
+/* -----------our-team style----------- */
 
-.studio {
-    font-family: Raleway, sans-serif;
+.our-team-headerline {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+
+/* -------footer style------- */
+
+.footer-h2 {
+    font-family: Raleway , sans-serif;
     font-weight: 700;
     font-size: 18px;
-    color:#2E2F42;
-    letter-spacing: 3%;
     line-height: 21px;
-}
-.nav-spc {
-    font-family: Raleway, sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    color:#2E2F42;
-    list-style-type: none;
-    line-height: 24px;
+    letter-spacing: 3%;
 }
 
-.nav-spc a{
-     color:#2E2F42;
-     text-decoration: none;
-}
-
-#iris {
-    color: #4D5AE5;
-}
-
----------MAIN STYLES---------
-
-.effective-solutions  {
+.footer-text {
     font-family: Roboto, sans-serif;
-    font-weight: 500;
-    font-size: 20px;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
-    color:#434455;
-}
-#textH1 {
-    font-weight: 700;
-    font-size: 56px;
     color: #FFFFFF;
-    letter-spacing: 2%;
-    line-height: 60px;
 }
-
-#button {
-    font-family: Roboto, sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    color: #FFFFFF;
-    letter-spacing: 4%;
-    line-height: 24px;
-    cursor: pointer;
-}
-
