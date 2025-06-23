@@ -223,6 +223,10 @@ body{
     padding-left: 68px;
 }
 
+.photo {
+    display: block;
+}
+
 /* -------our-partfolio style-----------  */
 
 .container-our-partfolio {
@@ -250,6 +254,9 @@ body{
     padding: 0;
 }
 
+.portfolio-item img {
+    display: block;
+}
 .portfolio-text h3{
     font-style: Roboto, sans-serif;
     font-weight: 500;
